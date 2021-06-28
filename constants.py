@@ -1,0 +1,1 @@
+FLASK_APP_NAME = "flask_test_app"
